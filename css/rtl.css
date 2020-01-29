@@ -1,0 +1,243 @@
+body{
+	direction: rtl;
+}
+.slick-slider{
+	direction:ltr;
+}
+.mainBanner .header .list ul li {
+	float: right;
+}
+.content {
+	float: right;
+}
+.content .welcome {
+	float: right;
+}
+.content .welcome .part1 {
+	float: right;
+}
+.content .welcome .part1 h5 {
+	float: right;
+}
+.content .welcome .part1 p{
+	float: right;
+}
+.content .welcome .part1 small {
+   float: right;
+}
+.content .welcome .part1 figure {
+   float: right;
+}
+.content .welcome .part1 figure figcaption {
+	float: right;
+}
+
+
+.content .features {
+	float: right;
+}
+.content .features .list {
+	float: right;
+}
+.content .features .list ul li{
+	float: right;
+}
+.content .features .list ul li a{
+	float: right;
+}
+.content .features .list ul li h4{
+	float: right;
+}
+.content .features .list ul li p{
+	float: right;
+}
+.content .our-advantages {
+	float: right;
+}
+.content .our-advantages .part-one {
+	float: right;
+}
+.content .our-advantages .part-one ul li {
+	float: right;
+}
+.content .our-advantages .part-one ul li h1 {
+	right: 0px;
+}
+.content .our-advantages .part-one ul li h5 {
+	float: right;
+}
+.content .our-advantages .part-one ul li p{
+	float: right;
+}
+.content .our-advantages .part-two {
+	float: left;
+}
+.content .our-advantages .part-two img{
+	float: left;
+}
+
+.content .latest-paintings {
+	float: right;
+}
+.content .latest-paintings .left {
+	left: 55%;
+}
+.content .latest-paintings .right {
+	right: 45%;
+}
+.content .latest-paintings .part-one {
+	float: right;
+}
+.content .latest-paintings .part-one h2 {
+	float: right;
+}
+.content .latest-paintings .part-one figure {
+	float: right;
+}
+.content .latest-paintings .part-one figure img {
+	float: right;
+}
+.content .latest-paintings .part-one figure figcaption {
+	padding-left: 0px;
+	padding-right: 22px;
+}
+.content .latest-paintings .part-one figure figcaption h5 {
+	float: right;
+}
+.content .latest-paintings .part-one figure figcaption h3 {
+	float: right;
+	padding-left: 0px;
+	padding-right: 20px;
+}
+.content .latest-paintings .part-one figure figcaption a {
+float: right;
+}
+.content .latest-paintings .part-one h4 {
+	float: right;
+}
+.content .latest-paintings .part-one p {
+	float: right;
+}
+.content .latest-paintings .part-one .details {
+	float: right;
+}
+.content .latest-paintings .part-one .list {
+	float: right;
+}
+.content .latest-paintings .part-one .list a {
+	float: right;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+.content .latest-paintings .part-two img {
+	float: left;
+}
+.content .latest-paintings .links {
+	left: 51%;
+}
+.content .latest-paintings .links a::after {
+	left: 4px;
+}
+
+.content .Subscribe-Newsletter {
+	float: right;
+}
+.content .Subscribe-Newsletter .right {
+	float: right;
+}
+
+
+
+.footer {
+	float: right;
+}
+.footer form h3 {
+	padding-left: 40px;
+	padding-right: 0px;
+}
+.footer form input {
+	padding-right: 18px;
+	padding-left: 0px;
+}
+.footer form a {
+	right: 81.5%;
+}
+.footer .list {
+	float: right;
+}
+.footer .list .part1 {
+	float: right;
+}
+.footer .list .part1 figure {
+	float: right;
+}
+.footer .list .part1 figure img{
+	float: right;
+}
+.footer .list .part1 p{
+	float: right;
+}
+.footer .list .part1 .links{
+	float: right;
+}
+.footer .list .part2 {
+	float: right;
+}
+.footer .list .part2 h3 {
+	float: right;
+}
+.footer .list .part2 .recent-tweets {
+	float: right;
+}
+.footer .list .part2 .recent-tweets ul li {
+	float: right;
+}
+.footer .list .part2 .recent-tweets ul li span {
+	float: right;
+}
+.footer .list .part2 .recent-tweets ul li span i {
+	float: right;
+}
+.footer .list .part2 .recent-tweets ul li span p {
+	float: right;
+	padding-right: 15px;
+	padding-left: 0px;
+}
+.footer .list .part3 {
+	float: right;
+}
+.footer .list .part3 h3 {
+	float: right;
+}
+.footer .list .part3 .contect-details {
+	float: right;
+}
+.footer .list .part3 .contect-details ul li {
+	float: right;
+}
+.footer .list .part3 .contect-details ul li span {
+	float: right;
+}
+.footer .list .part3 .contect-details ul li span i{
+	float: right;
+}
+.footer .list .part3 .contect-details ul li span a{
+	float: right;
+	padding-left: 0px;
+	padding-right: 18px;
+}
+.footer .last-section {
+	float: right;
+}
+.footer .last-section span {
+	float: right;
+}
+.footer .last-section .payment {
+    float: left;
+}
+.footer .last-section .payment ul li {
+	float: left;
+}
+
+
+

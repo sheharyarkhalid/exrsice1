@@ -1,0 +1,881 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+.mainBanner {
+	margin-bottom: 50px;
+       }
+.mainBanner .bottom-arrow {
+	left: 50%;
+	bottom: 20px;
+}
+.mainBanner .logo {
+	top:10px;
+	left: 5px;
+}
+.mainBanner .logo a{
+	float: left;
+	width: 100%;
+}
+.mainBanner .logo a img{
+	float: left;
+	width: 100%;
+}
+.slider figure {
+	margin-left: 65px;
+}
+.slider .text {
+	width: 40%;
+}
+.slider .text span {
+	padding: 140px 0px 0px 0px;
+}
+.slider .text span h3 {
+font-size: 70px;
+line-height: 51px;
+padding-bottom: 20px;
+letter-spacing: 10px;
+}
+.slider .text span h2 {
+word-spacing: 2px;
+letter-spacing: 5px;
+line-height: 25px;
+padding-bottom: 20px;
+font-size: 35px;
+}
+.slider .text span h1 {
+font-size: 130px;
+line-height: 100px;
+letter-spacing: 5px;
+}
+.mainBanner .header {
+	width: 15%;
+	top:20px;
+}
+.mainBanner .header .navbutton{
+display: inline-block;
+padding-left: 15px;
+}	
+.mainBanner .header .icons {
+	float: right;
+	width: 70%;
+	margin: 0px;
+	padding: 0px;
+}
+.mainBanner .header .icons a{
+font-size: 15px;
+float: right;
+padding:0px 10px;
+}
+.mainBanner .header .list {
+display: block;
+width: 200px;
+position: absolute;
+background: #fe3f37;
+z-index: -1;
+top:-21px;
+left: -150px;
+opacity: 0;
+transition:all 0.5s ease;
+}
+.mainBanner .header .list span{
+	position: absolute;
+	top:20px;
+	left:20px;
+	cursor: pointer;
+	display: inline-block;
+}
+.mainBanner .header .list ul li{
+display: block;
+width: 100%;
+padding: 20px 0px;
+color: #ffffff;
+}
+.mainBanner .header .navbutton{
+	cursor: pointer;
+}
+.mainBanner .header .list ul li a{
+color: #ffffff;
+}
+.content .welcome{
+	margin-bottom: 60px;
+}
+.content .welcome .part1 p{
+	font-size:30px ;
+	line-height: 40px;
+}
+
+
+.content .welcome .part1 small span {
+	width: 90%;
+}
+.content .feature-categories {
+	margin-bottom: 40px;
+}
+.content .feature-categories .list ul {
+	margin: 0px;
+}
+.content .feature-categories .list ul li {
+	padding: 0px 8px;
+}
+.content .features {
+	margin-bottom: 50px;
+}
+.content .features .list ul {
+	margin:0px;
+}
+.content .features .list ul li {
+	width: 50%;
+	padding: 0px 25px;
+}
+.content .features .list ul li h4 {
+	font-weight: 600;
+}
+.content .our-advantages {
+	margin-bottom: 50px;
+}
+.content .our-advantages .part-one {
+	width: 50%;
+	padding: 0px 20px;
+}
+.content .our-advantages .part-one ul li h1 {
+	left: 0px;
+}
+.content .our-advantages .part-two {
+	width: 50%;
+}
+
+.content .latest-paintings{
+	margin-bottom: 50px;
+}
+.content .latest-paintings .part-one {
+	width: 50%;
+	padding:35px 10px 0px 10px;
+}
+
+
+.content .latest-paintings .part-one h2 {
+	padding-bottom: 35px;
+}
+.content .latest-paintings .part-one figure figcaption h5 {
+	width: 50%;
+}
+.content .latest-paintings .part-one figure figcaption h3 {
+	font-size: 25px;
+	width: 50%;
+
+}
+.content .latest-paintings .part-one figure figcaption a {
+	margin-top: 0px;
+}
+.content .latest-paintings .part-one p {
+	width: 90%;
+}
+.content .latest-paintings .part-two {
+width: 50%;
+}
+.content .latest-paintings .part-two figure{
+width: 100%;
+padding:120px 20px 70px 20px;
+}
+.content .latest-paintings .part-two figure img{
+float: right;
+width: 100%;
+}
+
+.content .latest-paintings .part-two .links {
+display: none;
+}
+.content .latest-paintings .left {
+	width: 50%;
+}
+.content .latest-paintings .right {
+	width: 50%;
+}
+	
+.content .latest-news p {
+	font-size: 25px;
+	padding-bottom: 40px;
+}
+.content .latest-news .list ul {
+	margin: 0px;
+}
+
+.content .Subscribe-Newsletter {
+	margin-bottom: 50px;
+	padding: 50px 0px 50px 0px;
+}
+
+.content .Subscribe-Newsletter .left {
+	width: 55%;
+	padding: 0px 15px;
+}
+.content .Subscribe-Newsletter .right {
+	width: 45%;
+	padding: 0px 15px;
+
+}
+.content .Subscribe-Newsletter h2 {
+	width: 100%;
+	font-size: 24px;
+}
+
+.content .our-latest-paintings p {
+	font-size: 25px;
+	padding-bottom: 40px;
+}
+.content .our-latest-paintings .list ul {
+	margin: 0px;
+}
+
+.footer form a {
+right: 13.5%;
+top: 48%;
+}
+.footer .list {
+	margin: 0px;
+}
+.footer .list .part1 {
+	width: 50%;
+	margin-bottom: 50px;
+}
+.footer .list .part2 {
+	width: 50%;
+margin-bottom: 50px;
+}
+.footer .list .part3 {
+	width: 50%;
+margin-bottom: 50px;
+}
+.footer .last-section span {
+	padding-left: 10px;
+}
+.footer .last-section .payment { padding-right: 10px; }
+	
+}
+
+@media (max-width: 767px) {
+body{
+		overflow-x:hidden; 
+	}
+.mainBanner {
+	margin-bottom: 50px;
+}
+.mainBanner .bottom-arrow {
+	left: 54%;
+	bottom: 20px;
+}
+.mainBanner .logo {
+	top:10px;
+	left: 5px;
+}
+.mainBanner .logo a{
+	float: left;
+	width: 100%;
+}
+.mainBanner .logo a img{
+	float: left;
+	width: 100%;
+}
+.slider figure {
+	margin-left: 80px;
+}
+.slider .text {
+	width: 37%;
+}
+.slider .text span {
+	padding: 100px 0px 0px 0px;
+}
+.slider .text span h3 {
+font-size: 65px;
+line-height: 51px;
+padding-bottom: 15px;
+letter-spacing: 10px;
+}
+.slider .text span h2 {
+word-spacing: 2px;
+letter-spacing: 5px;
+line-height: 25px;
+padding-bottom: 12px;
+font-size: 33px;
+}
+.slider .text span h1 {
+font-size: 120px;
+line-height: 100px;
+letter-spacing: 5px;
+}
+.mainBanner .header {
+	width: 17%;
+	top:20px;
+}
+.mainBanner .header .navbutton{
+display: inline-block;
+padding-left: 10px;
+}	
+.mainBanner .header .icons {
+	float: right;
+	width: 70%;
+	margin: 0px;
+	padding: 0px;
+}
+.mainBanner .header .icons a{
+font-size: 15px;
+float: right;
+padding:0px 10px;
+}
+.mainBanner .header .list {
+display: block;
+width: 200px;
+position: absolute;
+background: #fe3f37;
+z-index: -1;
+top:-21px;
+left: -150px;
+opacity: 0;
+transition:all 0.5s ease;
+}
+.mainBanner .header .list span{
+	position: absolute;
+	top:20px;
+	left:20px;
+	cursor: pointer;
+	display: inline-block;
+}
+.mainBanner .header .list ul li{
+display: block;
+width: 100%;
+padding: 20px 0px;
+color: #ffffff;
+}
+.mainBanner .header .navbutton{
+	cursor: pointer;
+}
+.mainBanner .header .list ul li a{
+color: #ffffff;
+}
+.content .welcome{
+	margin-bottom: 50px;
+}
+.content .welcome .part1 p {
+	font-size:25px ;
+	line-height: 37px;
+}
+.content .welcome .part1 small span {
+	width: 90%;
+}
+.content .feature-categories {
+	margin-bottom: 0px;
+}
+.content .feature-categories .list ul {
+	margin: 0px;
+}
+.content .feature-categories .list ul li {
+	padding: 0px 8px;
+	margin-bottom: 10px;
+}
+.content .feature-categories .list ul li figure::before {
+	height:94.5%;
+}
+.content .features {
+	margin-bottom: 50px;
+}
+.content .features .list ul {
+	margin:0px;
+}
+.content .features .list ul li {
+	width: 50%;
+	padding: 0px 25px;
+}
+.content .features .list ul li h4 {
+	font-weight: 600;
+}
+.content .our-advantages {
+	margin-bottom: 20px;
+}
+.content .our-advantages .part-one {
+	width: 100%;
+}
+.content .our-advantages .part-one ul li h1 {
+	left: 20px;
+	top:-42px;
+}
+.content .our-advantages .part-one ul li{
+width: 50%;
+padding: 0px 20px;
+margin-bottom: 50px;
+}
+.content .our-advantages .part-one ul li h5 {
+	padding-bottom: 25px;
+}
+.content .our-advantages .part-two {
+	display: none;
+}
+
+.content .latest-paintings{
+	margin-bottom: 50px;
+}
+.content .latest-paintings .part-one {
+	width: 100%;
+	padding:35px 10px 0px 10px;
+	text-align: center;
+}
+.content .latest-paintings .part-one h2 {
+	padding-bottom: 35px;
+}
+.content .latest-paintings .part-one figure{
+	text-align: center;
+}
+.content .latest-paintings .part-one figure img{
+	float: none;
+	padding-bottom: 10px;
+}
+.content .latest-paintings .part-one figure figcaption{
+	padding:0px;
+	width: 100%;
+}
+.content .latest-paintings .part-one figure figcaption h5 {
+	width: 100%;
+	padding-bottom: 10px;
+}
+.content .latest-paintings .part-one figure figcaption h3 {
+	font-size: 25px;
+	width: 100%;
+	padding:0px;
+	padding-bottom: 10px;
+}
+.content .latest-paintings .part-one figure figcaption a {
+	margin-top: 0px;
+	float: none;
+}
+.content .latest-paintings .part-one .list{
+margin-bottom:40px;
+}
+.content .latest-paintings .part-one .list a {
+	float: none;
+}
+.content .latest-paintings .part-one p {
+	width: 100%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.content .latest-paintings .part-two {
+display: none;
+}
+
+.content .latest-paintings .links {
+display: none;
+}
+
+.content .latest-paintings .left {
+	width: 100%;
+}
+.content .latest-paintings .right {
+	display: none;
+}
+.content .latest-news{
+	margin-bottom: 50px;
+}	
+.content .latest-news p {
+	font-size: 25px;
+	padding-bottom: 40px;
+}
+.content .latest-news .list ul {
+	margin: 0px;
+}
+
+.content .Subscribe-Newsletter {
+	margin-bottom: 50px;
+	padding: 50px 0px 50px 0px;
+}
+
+.content .Subscribe-Newsletter .left {
+	width: 55%;
+	padding: 0px 15px;
+}
+.content .Subscribe-Newsletter .right {
+	width: 45%;
+	padding: 0px 15px;
+
+}
+.content .Subscribe-Newsletter h2 {
+	width: 100%;
+	font-size: 24px;
+}
+
+.content .our-latest-paintings{
+	margin-bottom: 50px;
+}
+.content .our-latest-paintings p {
+	font-size: 25px;
+	padding-bottom: 40px;
+}
+.content .our-latest-paintings .list ul {
+	margin: 0px;
+}
+.content .our-latest-paintings .list ul li .main figure img{
+	width: 100%;
+	padding:0px 20px;
+}
+.content .our-latest-paintings .list ul li .main .discount {
+	top:10px;
+}
+.footer form{
+	margin-bottom: 50px;
+	padding-top: 40px;
+	padding-bottom: 35px;
+}
+.footer form a {
+right: 12.5%;
+top: 45%;
+}
+.footer .list {
+	margin: 0px;
+	padding-bottom: 0px;
+}
+.footer .list .part1 {
+	width: 50%;
+	margin-bottom: 50px;
+}
+.footer .list .part2 {
+	width: 50%;
+margin-bottom: 50px;
+}
+.footer .list .part3 {
+	width: 50%;
+margin-bottom: 50px;
+}
+.footer .last-section span {
+	padding-left: 10px;
+}
+
+.footer .last-section .payment {
+padding-right: 10px;
+
+}
+
+}
+
+@media (max-width: 540px) { 
+  .mainBanner {
+	margin-bottom: 40px;
+}
+.mainBanner .bottom-arrow {
+	left: 55%;
+	bottom: 15px;
+}
+.mainBanner .logo {
+	width: 25%;
+	top:9px;
+	left: 5px;
+}
+.mainBanner .logo a{
+	float: left;
+	width: 100%;
+}
+.mainBanner .logo a img{
+	float: left;
+	width: 100%;
+}
+.slider figure {
+	margin-left: 60px;
+}
+.slider .text {
+	width: 33%;
+}
+.slider .text span {
+	padding:62px 0px 0px 0px;
+}
+.slider .text span h3 {
+	font-size: 35px;
+	line-height: 35px;
+	padding-bottom: 10px;
+	letter-spacing: 0px;
+}
+.slider .text span h2 {
+	word-spacing: 0px;
+letter-spacing: 0px;
+line-height: 19px;
+padding-bottom: 10px;
+font-size: 18px;
+}
+.slider .text span h1 {
+	font-size: 55px;
+	line-height: 43px;
+	letter-spacing: 2px;
+}
+.mainBanner .header {
+	width: 35%;
+	top:15px;
+}
+.mainBanner .header .navbutton{
+display: inline-block;
+width: 20px;
+padding-left: 30px;
+}	
+.mainBanner .header .icons {
+	float: right;
+	width: 60%;
+	margin: 0px;
+	padding: 0px;
+}
+.mainBanner .header .list {
+display: block;
+width: 130px;
+position: absolute;
+background: #fe3f37;
+z-index: -1;
+top:-21px;
+left: -78px;
+opacity: 0;
+transition:all 0.5s ease;
+}
+.mainBanner .header .list span{
+	position: absolute;
+	top:22px;
+	left:9px;
+	cursor: pointer;
+	display: inline-block;
+}
+.mainBanner .header .list ul li{
+display: block;
+width: 100%;
+padding: 9px 0px;
+color: #ffffff;
+}
+.mainBanner .header .navbutton{
+	cursor: pointer;
+}
+.mainBanner .header .list ul li a{
+color: #ffffff;
+}
+.mainBanner .header .icons {
+	float: right;
+}
+
+.content .welcome {
+	margin-bottom: 50px;
+}
+.content .welcome .part1 p {
+	font-size: 14px;
+	line-height: 25px;
+	margin-bottom: 40px;
+}
+.content .welcome .part1 p::after {
+	bottom: -15px;
+}
+.content .feature-categories {
+	margin-bottom: 15px;
+}
+.content .feature-categories .list ul{
+	margin:0px;
+}
+.content .feature-categories .list ul li {
+	padding:0px 10px;
+}
+.content .feature-categories .list ul li figure::before {
+	height:90.5%;
+}
+
+.content .features {
+	margin-bottom: 50px;
+}
+.content .features .list ul {
+	margin:0px;
+}
+.content .features .list ul li {
+	width: 100%;
+}
+.content .features .list ul li h4 {
+	font-weight: 600;
+}
+
+.content .our-advantages {
+	margin-bottom: 15px;
+}
+
+.content .our-advantages .part-one {
+	width: 100%;
+}
+.content .our-advantages .part-one ul li {
+	padding:0px 20px;
+	width: 100%;
+	margin-bottom: 50px;
+}
+.content .our-advantages .part-one ul li h1 {
+	left: 20px;
+}
+.content .our-advantages .part-one ul li h5 {
+    padding-bottom: 25px;
+}
+.content .our-advantages .part-two {
+	display: none;
+}
+.content .latest-paintings {
+	margin-bottom: 50px;
+}
+
+.content .latest-paintings .part-one {
+	width: 100%;
+	padding-top: 40px;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-align: center;
+}
+.content .latest-paintings .part-one h2 {
+	text-align: center;
+	padding-bottom: 35px;
+}
+.content .latest-paintings .part-one figure {
+	text-align: center;
+}
+.content .latest-paintings .part-one figure img {
+	width: 25%;
+	float: none;
+	padding-bottom: 10px;	
+}
+.content .latest-paintings .part-one figure figcaption {
+	width: 100%;
+    padding-left: 0px;
+}
+
+.content .latest-paintings .part-one figure figcaption h5 {
+	width: 100%;
+	padding-bottom: 6px;
+}
+.content .latest-paintings .part-one figure figcaption h3 {
+	width: 100%;
+	padding-left: 0px;
+	padding-bottom: 10px;
+}
+.content .latest-paintings .part-one figure figcaption a {
+	float: none;
+}
+.content .latest-paintings .part-one p {
+	padding-bottom: 20px;
+	width: 100%;
+}
+.content .latest-paintings .part-one h4 {
+	font-weight: 600;
+}
+
+.content .latest-paintings .part-two {
+	display: none;
+}
+.content .latest-paintings .left {
+	width: 100%;
+}
+.content .latest-paintings .links {
+	display: none;
+}
+.content .latest-paintings .right {
+	display: none;
+}
+.content .latest-news {
+	margin-bottom: 50px;
+}
+.content .latest-news p {
+	font-size: 15px;
+	padding-bottom: 40px;
+}
+.content .latest-news .list ul {
+	margin: 0px;
+}
+.content .latest-news .list ul li .figcaption h5{
+	font-weight: 600;
+}
+
+.content .Subscribe-Newsletter {
+	margin-bottom: 50px;
+	padding: 50px 15px 35px 15px;
+}
+.content .Subscribe-Newsletter img {
+	display: none;
+}
+
+.content .Subscribe-Newsletter .left {
+	width: 100%;
+	margin-bottom: 35px;
+}
+.content .Subscribe-Newsletter .right {
+	width: 100%;
+
+}
+.content .Subscribe-Newsletter h2 {
+	width: 100%;
+	font-size: 28px;
+}
+
+
+.content .our-latest-paintings {
+	margin-bottom: 50px;
+}
+.content .our-latest-paintings p {
+	font-size: 25px;
+}
+.content .our-latest-paintings .list ul {
+	margin: 0px;
+}
+.content .our-latest-paintings .list ul li .main figure img{
+	width: 100%;
+	padding:0px 20px;
+}
+.content .our-latest-paintings .list ul li .main .discount {
+	top:10px;
+}
+
+.footer form {
+margin-bottom: 50px;
+padding:40px 15px 50px 15px;
+}
+.footer form h3 {
+	width: 100%;
+	font-size: 20px;
+	padding-bottom: 30px;
+	padding-right: 0px;
+}
+.footer form input {
+	width: 80%;
+}
+.footer form a {
+	top:58%;
+	right: 17%;
+}
+
+.footer .list {
+	margin:0px;
+	padding-bottom: 0px;
+}
+.footer .list .part1 {
+	width: 100%;
+	text-align: center;
+}
+.footer .list .part2 {
+	width: 100%;
+	text-align: center;
+
+}
+.footer .list .part3 {
+	width: 100%;
+
+}
+.footer .list .part3 h3 {
+    text-align: center;
+}
+.footer .last-section {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.footer .last-section span {
+	width: 100%;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.footer .last-section .payment{
+	width: 100%;
+	text-align: center;
+}
+.footer .last-section .payment ul{
+	margin: 0px;
+}
+.footer .last-section .payment ul li {
+	display: inline-block;
+	float: none;
+}
+}

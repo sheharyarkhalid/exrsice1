@@ -1,0 +1,114 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?y22bzx');
+  src:  url('fonts/icomoon.eot?y22bzx#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?y22bzx') format('truetype'),
+    url('fonts/icomoon.woff?y22bzx') format('woff'),
+    url('fonts/icomoon.svg?y22bzx#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-magnifying-glass:before {
+  content: "\e900";
+}
+.icon-twitter-social-logotype:before {
+  content: "\e901";
+}
+.icon-facebook-logo:before {
+  content: "\e902";
+}
+.icon-pin:before {
+  content: "\e903";
+}
+.icon-globe:before {
+  content: "\e904";
+}
+.icon-globe-1:before {
+  content: "\e905";
+}
+.icon-call:before {
+  content: "\e906";
+}
+.icon-envelope:before {
+  content: "\e907";
+}
+.icon-send:before {
+  content: "\e908";
+}
+.icon-shopping-cart:before {
+  content: "\e909";
+}
+.icon-broken-link:before {
+  content: "\e90a";
+}
+.icon-menu:before {
+  content: "\e90b";
+}
+.icon-placeholder:before {
+  content: "\e90c";
+}
+.icon-list:before {
+  content: "\e90d";
+}
+.icon-delete:before {
+  content: "\e90e";
+}
+.icon-menu-1:before {
+  content: "\e90f";
+}
+.icon-calendar-interface-symbol-tool:before {
+  content: "\e910";
+}
+.icon-heart-outline:before {
+  content: "\e911";
+}
+.icon-heart:before {
+  content: "\e912";
+}
+.icon-palette:before {
+  content: "\e913";
+}
+.icon-clock:before {
+  content: "\e914";
+}
+.icon-briefcase:before {
+  content: "\e915";
+}
+.icon-thermometer-medical-fever-temperature-control-tool:before {
+  content: "\e916";
+}
+.icon-click:before {
+  content: "\e917";
+}
+.icon-group-interface-symbol:before {
+  content: "\e918";
+}
+.icon-up-arrow:before {
+  content: "\e919";
+}
+.icon-down:before {
+  content: "\e91a";
+}
+.icon-double-left-arrows-angles:before {
+  content: "\e91b";
+}
+.icon-right-arrow-angle-of-two-shapes:before {
+  content: "\e91c";
+}
